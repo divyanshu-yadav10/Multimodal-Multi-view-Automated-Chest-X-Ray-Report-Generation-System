@@ -6,7 +6,7 @@
 ![Status](https://img.shields.io/badge/Status-Manuscript%20in%20Preparation-orange)
 
 > **Note on Publication Status:**  
-> This repository is an engineering showcase for a research manuscript currently in preparation for peer review. To protect novelty prior to publication, the core model architecture, training implementation, and trained checkpoint weights are held in a private repository and will be released upon publication. Recruiters and hiring managers may request access to the full codebase via email.
+> This repository is an engineering showcase for a research manuscript currently in preparation for peer review. To protect novelty prior to publication, the core model architecture, training implementation, and trained checkpoint weights are held in a private repository and will be released upon publication. Recruiters and hiring managers may request access to the full codebase.
 
 ---
 
